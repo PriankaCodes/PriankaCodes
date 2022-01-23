@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PriankaCodes
+- 👀 I’m interested in developing my skills and confidence in coding with the goal of transitioning into the Tech industry as a FE developer
+- 🌱 I’m currently starting my #100daysofcode challenge 
+- 💞️ I’m looking to collaborate on projects in the future (potentiall after my #100daysofcode challenge)
+- Happy Coding Everyone! 
